@@ -8,6 +8,17 @@ import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
+    /*
+        All - https://www.youtube.com/results?search_query=modern+ui+in+android+studio
+        Tutorials
+        1) Dash 1 - https://www.youtube.com/watch?v=LOcD1evBcSA
+        2) Dash 2 - https://www.youtube.com/watch?v=Ca7Te545ELU
+        3) Dash 3 - https://www.youtube.com/watch?v=ejbX9MO2ems
+        4) Dash 4 -
+
+     */
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
